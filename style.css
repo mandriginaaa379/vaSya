@@ -32,7 +32,7 @@ a {
     height: 100%;
     top: 0;
     left: 0;
-    cursor: url('../img/kis.png') 24 24, auto;
+    cursor: url('img/kis.png') 24 24, auto;
 }
 
 .game:hover .game__win {
